@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maruti Nandan Tiwari</h1>
 <h3 align="center">I like to tinker with stuff. That's all I guess.</h3>
 
-- 🔭 I’m currently working on blockchain technology.
+- 🔭 I’m currently working on blockchain technology
 - 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [ https://github.com/marutint10]( https://github.com/marutint10)
