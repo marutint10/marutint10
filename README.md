@@ -32,6 +32,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/solidity-original.svg" alt="Solidity" height="50" />  
+<img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcryptocam.tech%2Fblog-2%2F&psig=AOvVaw0KEl0YZ6-m6j5AHJtNAuvT&ust=1650992118928000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjKl4vXr_cCFQAAAAAdAAAAABAD" alt="Solidity" height="50" />  
 
 </div>
