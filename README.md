@@ -32,6 +32,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://img.icons8.com/ios/452/solidity.png" alt="Solidity" height="50" />  
+<img style="margin: 10px" src="https://img.icons8.com/ios-filled/344/ffffff/solidity.png" alt="Solidity" height="50" />  
 
 </div>
