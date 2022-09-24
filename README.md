@@ -42,6 +42,20 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/> </a>    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50"/> </a>   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50"/> </a> 
-
  
 </div>
+
+
+
+
+<p align="center">
+<a href="https://github.com/marutint10?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=marutint10&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="marutint10 github-readme-stats"/></a>
+<a href="https://github.com/marutint10?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=marutint10&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="marutint10 github-readme-streak-stats"/></a>
+</p>
+
+<p align="center">
+    <a href="">
+        <img src="https://activity-graph.herokuapp.com/graph?username=marutint10&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="marutint10 activity graph">
+    </a>
+</p>
+
