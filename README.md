@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Maruti Nandan Tiwari</h1>
-<h3 align="center">I like to tinker with stuff. That's all I guess.</h3>
+<h1 align="center">Hi there 👋, I'm Maruti Nandan Tiwari!</h1>
+[![MARUTI NANDAN TIWARI Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marutint10/)
+[![MARUTI NANDAN TIWARI Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/marutint10)
 
 - 🔭 I’m currently working on blockchain technology
 - 🌱 I’m currently learning **Solidity**
