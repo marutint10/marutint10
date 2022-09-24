@@ -26,6 +26,68 @@
 
 <br>
 
+## ⛓ ₿lockchain Skill 
+
+### Blockchains
+<p align="left">
+    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="solidity"/> </a>
+</p>
+
+ 
+ ###  Languages
+ <p align="left">
+  <a href="https://docs.soliditylang.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="solidity"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
+</p>
+ 
+ ### Library
+ <p align="left">
+ <img src="https://img.shields.io/badge/Ethers.js-7A98FB?style=for-the-badge&logo=Ethers.js&logoColor=white" alt="Ethers.js">
+ <img src="https://img.shields.io/badge/web3.js-bdbfc0?style=for-the-badge&logo=web3.js&logoColor=f06823" alt="Web3.js">
+ </p>
+ 
+ ### Frameworks
+ <p align="left">
+ <img src="https://img.shields.io/badge/Hardhat-fff04d?style=for-the-badge&logo=Hardhat&logoColor=white" alt="Hardhat">
+ <img src="https://img.shields.io/badge/Brownie-f7f6d6?style=for-the-badge&logo=Brownie&logoColor=white" alt="Truffle">
+ </p>
+ 
+ ### Testing
+ <p align="left">
+ <img src="https://img.shields.io/badge/Mocha-8c6749?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha">
+ <img src="https://img.shields.io/badge/Chai-f6e8c9?style=for-the-badge&logo=Chai&logoColor=a40802" alt="Chai">
+ </p>
+ 
+### Frontend Technologies
+
+<p align="left">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> </a>
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a>
+</p>
+
+
+ ### Projects and protocols that I interact
+ <p align="left">
+ <img src="https://img.shields.io/badge/OpenZeppelin-65aef8?&style=for-the-badge&logo=OpenZeppelin&logoColor=white" alt="OpenZeppelin"/>
+ <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white" alt="Chainlink">
+ <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="EVM">
+ <img src="https://img.shields.io/badge/Uniswap-fe017b?style=for-the-badge&logo=Uniswap&logoColor=white" alt="Uniswap">
+ <img src="https://img.shields.io/badge/AAVE-8674ac?style=for-the-badge&logo=AAVE&logoColor=white" alt="AAVE">
+ <img src="https://img.shields.io/badge/Dydx-000000?style=for-the-badge&logo=Dydx&logoColor=white" alt="MetaMask">
+ 
+ </p>
+
+ ### Others
+  <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+  
+  
+<br>
+
 
 <p align="center">
 <a href="https://github.com/marutint10?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=marutint10&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="marutint10 github-readme-stats"/></a>
