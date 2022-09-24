@@ -26,8 +26,7 @@
 - 👯 I will be happy to collaborate on **Blockchain Projects**
 
 - 💬 Ask me about **Solidity, Smart Contracts, Hardhat, Truffle, Ethers.js, Web3.js DAOs, DeFi, NFTs, React.js!**
-<h3> Feel free to write to me if you need help, I'll try to help! </h3>
-
+- **Feel free to write to me if you need help, I'll try to help!**
 <br>
 
 ---
