@@ -21,7 +21,7 @@
 - 📫 How to reach me **marutinandantiwari8@gmail.com**
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+(https://github-readme-stats.vercel.app/api?username=marutint10&theme=highcontrast&show_icons=true&count_private=true)
 
 
 
