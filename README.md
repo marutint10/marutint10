@@ -8,11 +8,23 @@
    <a href="mailto:marutint10@gmail.com">
   <img src="https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
  </a>
-
 </p>
 
+<br>
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marutint10&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="marutint10" align="right">
+
+- 👨‍💻 I am currently building on **Ethereum Blockchain**
+
+- 🌱 I’m currently learning **Solidity & Web3 Technologies**
+
+- 👯 I will be happy to collaborate on **Blockchain Projects**
+
+- 💬 Ask me about **Solidity, Smart Contracts, Hardhat, Truffle, Ethers.js, Web3.js DAOs, DeFi, NFTs, React.js!**
+
+
+<br>
 
 
 <p align="center">
