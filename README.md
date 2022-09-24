@@ -60,7 +60,6 @@
  <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="EVM">
  <img src="https://img.shields.io/badge/Uniswap-fe017b?style=for-the-badge&logo=Uniswap&logoColor=white" alt="Uniswap">
  <img src="https://img.shields.io/badge/AAVE-8674ac?style=for-the-badge&logo=AAVE&logoColor=white" alt="AAVE">
- <img src="https://img.shields.io/badge/Dydx-000000?style=for-the-badge&logo=Dydx&logoColor=white" alt="MetaMask">
 </p>
   
 <br>
