@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Maruti Nandan Tiwari!</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=4981F4&width=350&lines=Full+Stack+Blockchain+Developer+!;Always+looking+to+learn+something+new+!">
+<img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=4981F4&width=350&lines=Smart+Contract+Developer+!;Always+looking+to+learn+something+new+!">
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/marutint10/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -10,53 +10,32 @@
  </a>
 </p>
 
-<br>
+### A little more about me...  
 
----
-### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const profile = {
- fullName: "Param Choudhary",
- programmingSkills: {
-    clientSoftware: ["HTML","CSS" "JavaScript", "Tailwind CSS", "React"],
-    serverSoftware: ["Node.js","Truffle","Hardhat"]
-    programming_lang:["Javascript","Solidity","Python","Java"]
-        },
-  languages: ["hindi", "English"],
-  currentFocus: "Creating 'the next big thing' "
+```Solidity
+contract Profile {
+    string fullName = "Maruti Nandan Tiwari";
+    string bio = "Solidity Expert";
+    
+    struct ProgrammingSkills {
+        string[] blockchain;
+        string[] smartContractFrameWork;
+        string[] programming_lang;
+        string[] frontend_lang;        
+    }
+    
+    ProgrammingSkills programmingSkills = ProgrammingSkills({
+        blockchain: ["Ethereum","Polygon", "Hedera"],
+        smartContractFrameWork: ["Truffle","Hardhat", "Faundry"],
+        programming_lang: ["Solidity","JavaScript"]
+        frontend_lang = ["React.js;, Next.js],
+    });
+    
+    string[] languages = ["hindi", "English"];
+    string currentFocus = "Always looking to learn something new!";
 }
-```
 
----
 
-<br>
-
-<h2> Skills </h2>
-
-<p align="left">
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="solidity"/> </a>
-<a href="https://docs.soliditylang.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="solidity"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
-<a href="/" target="_blank" rel="noreferrer"><img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> </a>
-<img src="https://img.shields.io/badge/Ethers.js-7A98FB?style=for-the-badge&logo=Ethers.js&logoColor=white" alt="Ethers.js">
-<img src="https://img.shields.io/badge/web3.js-bdbfc0?style=for-the-badge&logo=web3.js&logoColor=f06823" alt="Web3.js">
-<img src="https://img.shields.io/badge/Hardhat-fff04d?style=for-the-badge&logo=Hardhat&logoColor=white" alt="Hardhat">
-<img src="https://img.shields.io/badge/Mocha-8c6749?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha">
-<img src="https://img.shields.io/badge/Chai-f6e8c9?style=for-the-badge&logo=Chai&logoColor=a40802" alt="Chai">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a>
-<img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="EVM">
-<img src="https://img.shields.io/badge/OpenZeppelin-65aef8?&style=for-the-badge&logo=OpenZeppelin&logoColor=white" alt="OpenZeppelin"/>
-<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white" alt="Chainlink">
-
-</p>
-  
-<br>
-
----
 
 <br>
 
