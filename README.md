@@ -34,11 +34,7 @@ contract Profile {
     string[] languages = ["hindi", "English"];
     string currentFocus = "Always looking to learn something new!";
 }
-
-
-
-<br>
-
+```
 
 <p align="center">
 <a href="https://github.com/marutint10?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=marutint10&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="marutint10 github-readme-stats"/></a>
