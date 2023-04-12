@@ -13,21 +13,20 @@
 <br>
 
 ---
+### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50"> A little more about me...  
 
-<br>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marutint10&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="marutint10" align="right">
-
-- 👨‍💻 I am currently building on **Ethereum Blockchain**
-
-- 🌱 I’m currently learning **Solidity & Web3 Technologies**
-
-- 👯 I will be happy to collaborate on **Blockchain Projects**
-
-- 💬 Ask me about **Solidity, Smart Contracts, Hardhat, Truffle, Ethers.js, Web3.js DAOs, DeFi, NFTs, React.js!**
-- **Feel free to write to me if you need help, I'll try to help!**
-<br>
+```javascript
+const profile = {
+ fullName: "Param Choudhary",
+ programmingSkills: {
+    clientSoftware: ["HTML","CSS" "JavaScript", "Tailwind CSS", "React"],
+    serverSoftware: ["Node.js","Truffle","Hardhat"]
+    programming_lang:["Javascript","Solidity","Python","Java"]
+        },
+  languages: ["hindi", "English"],
+  currentFocus: "Creating 'the next big thing' "
+}
+```
 
 ---
 
