@@ -12,7 +12,7 @@
 
 ### A little more about me...  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20prapti&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="marutint10" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marutint10&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="marutint10" align="right">
 <a href="https://github.com/marutint10?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=marutint10&theme=gotham&show_icons=true&count_private=true&hide_border=true" alt="marutint10 github-readme-stats"/></a>
 
 ```Solidity
