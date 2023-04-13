@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Maruti Nandan Tiwari!</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=4981F4&width=350&lines=Smart+Contract+Developer+!;Always+looking+to+learn+something+new+!">
+<img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=4981F4&width=350&lines=Smart+Contract+Developer!;Always+looking+to+learn+something+new!">
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/marutint10/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -10,7 +10,7 @@
  </a>
 </p>
 
-### A little more about me...  
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marutint10&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="marutint10" align="right">
 <a href="https://github.com/marutint10?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=marutint10&theme=gotham&show_icons=true&count_private=true&hide_border=true" alt="marutint10 github-readme-stats"/></a>
