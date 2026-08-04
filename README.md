@@ -165,20 +165,6 @@ I care about:
 
 ---
 
-## 🎯 Roles I'm Interested In
-
-I am open to opportunities as an:
-
-- AI Product Engineer
-- Full-Stack AI Engineer
-- Applied AI Engineer
-- Forward Deployed Engineer
-- Backend Engineer for AI products
-- Founding Engineer
-I am especially interested in small, fast-moving teams where engineers can take ownership from idea to production.
-
----
-
 
 ## 🤝 Connect With Me
 
