@@ -8,14 +8,14 @@
   I build production AI products, intelligent backend systems, and user-facing applications from idea to deployment.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://linkedin.com/in/marutint10">
     <img src="https://img.shields.io/badge/LinkedIn-Maruti%20Nandan%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marutint10@gmail.com">
     <img src="https://img.shields.io/badge/Email-marutint10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ---
 
