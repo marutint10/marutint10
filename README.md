@@ -42,9 +42,9 @@ My previous experience includes delivering **30+ production smart contracts** an
 
 - Multi-model AI orchestration and intelligent model routing
 - LLM-powered user-facing products
-- AI visibility and Monitoring agent 
+- AI visibility and competitive-intelligence systems 
 - RAG, web retrieval, website crawling, and structured research workflows
-- AI agents and multi-stage generation-review-verification pipelines
+- Multi-stage AI workflows and generation-review-verification pipelines
 - Asynchronous AI processing with queues, retries, caching, and job-state management
 - AI-assisted writing, business intelligence, and visibility analysis
 - Image and video generation workflows
